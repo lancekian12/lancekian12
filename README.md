@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lance Kian F. Flores</h1>
 <h3 align="center">I am in my second year at Phinma University of Pangasinan. I am a passionate and hardworking software developer in the Philippines.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="">
- -->
+
 - 🌱 I’m currently learning **TypeScript, NextJS**
 
 - 👨‍💻 All of my projects are available at [lancekian12.github.io/portfolio](lancekian12.github.io/portfolio)
