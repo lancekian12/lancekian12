@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [lancekian12.github.io/portfolio](lancekian12.github.io/portfolio)
 
-- 💬 Ask me about **ReactJS, JavasSript**
+- 💬 Ask me about **ReactJS, JavasScript**
 
 - 📫 How to reach me **lafa.flores.up@phinmaed.com**
 
