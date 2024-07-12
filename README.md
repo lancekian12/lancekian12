@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lance Kian F. Flores</h1>
-<h3 align="center">I am in my second year at Phinma University of Pangasinan. I am a passionate and hardworking software developer in the Philippines.</h3>
+<h3 align="center">I'm in my third year at Phinma University of Pangasinan. I am a passionate and hardworking software developer in the Philippines.</h3>
 
 - 🌱 I’m currently learning **NodeJS, Dart Flutter**
 
