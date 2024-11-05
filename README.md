@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancekian12&label=Profile%20views&color=0e75b6&style=flat" alt="lancekian12" /> </p>
 
-<h1 align="center">Hi 👋, I'm Lance Kian F. Flores</h1>
+<h1 align="center">Hello, I'm Lance Kian F. Flores</h1>
 <h3 align="center">I'm in my third year at Phinma University of Pangasinan. I am a passionate and hardworking software developer in the Philippines.</h3>
 
 - 🌱 I’m currently learning **C# Unity and Laravel PHP**
