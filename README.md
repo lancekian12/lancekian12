@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Lance Kian F. Flores</h1>
 <h3 align="center">I'm a third-year student at PHINMA University of Pangasinan in the Philippines.</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **ReactJS and React Native**
 
 - 👨‍💻 All of my projects are available at [lancekian12.github.io/portfolio](lancekian12.github.io/portfolio)
 
