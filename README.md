@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancekian12&label=Profile%20views&color=0e75b6&style=flat" alt="lancekian12" /> </p>
 
 <h1 align="center">Hello, I'm Lance Kian F. Flores</h1>
-<h3 align="center">I'm a fourth-year student at PHINMA University of Pangasinan in the Philippines.</h3>
+<h3 align="center">I'm a senior college student at PHINMA University of Pangasinan in the Philippines.</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
