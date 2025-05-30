@@ -23,9 +23,3 @@
 <hr style="height:2px; border:none; background: linear-gradient(to right, #ffffff, #cccccc, #ffffff); margin:20px 0;" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancekian12&show_icons=true&bg_color=00000000)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lancekian12&show_icons=true&count_private=true&hide_title=false)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lancekian12&theme=github-dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lancekian12&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
