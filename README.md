@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ReactJS, Javascript, NodeJS, Dart and Flutter**
 
-- 📫 How to reach me **lafa.flores.up@phinmaed.com**
+- 📫 How to reach me **lancekian12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
