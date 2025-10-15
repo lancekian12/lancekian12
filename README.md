@@ -3,10 +3,10 @@
 <h1 align="left">Hello, I'm Lance Kian F. Flores</h1>
 <h3 align="left">I'm a senior college student at PHINMA University of Pangasinan in the Philippines.</h3>
 
-🌱 I’m currently learning **React Native**
-👨‍💻 All of my projects are available at [https://lancekian.vercel.app/](https://lancekian.vercel.app/)
-💬 Ask me about **ReactJS, Javascript, NodeJS, Dart and Flutter**
-📫 How to reach me **lancekian12@gmail.com**
+🌱 I’m currently learning **React Native**<br/>
+👨‍💻 All of my projects are available at [https://lancekian.vercel.app/](https://lancekian.vercel.app/)<br/>
+💬 Ask me about **ReactJS, Javascript, NodeJS, Dart and Flutter**<br/>
+📫 How to reach me **lancekian12@gmail.com**<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
