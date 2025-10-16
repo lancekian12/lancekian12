@@ -1,12 +1,12 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancekian12&label=Profile%20views&color=0e75b6&style=flat" alt="lancekian12" /> </p> --!>
 
-<h2 align="left">👋 Hello, I'm Kian</h2>
-<h3 align="left">I'm a senior college student at PHINMA University of Pangasinan in the Philippines.</h3>
+<h3 align="left">👋 Hello, I'm Kian!</h3>
+<h4 align="left">I'm a senior college student at PHINMA University of Pangasinan in the Philippines.</h4>
 
-🌱 I’m currently learning **React Native**<br/>
-👨‍💻 All of my projects are available at [https://lancekian.vercel.app/](https://lancekian.vercel.app/)<br/>
-💬 Ask me about **ReactJS, Javascript, NodeJS, Dart and Flutter**<br/>
-📫 How to reach me **lancekian12@gmail.com**<br/>
+🌱 I’m currently learning <b>React Native</b><br/>
+👨‍💻 All of my projects are available at <a href="https://lancekian.vercel.app" target="_blank" rel="noopener noreferrer" style="text-decoration:none;font-weight:bold;">Portfolio</a><br/>
+💬 Ask me about <b>ReactJS, Javascript, NodeJS, Dart and Flutter</b><br/>
+📫 How to reach me <b>lancekian12@gmail.com</b><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
