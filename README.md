@@ -1,7 +1,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancekian12&label=Profile%20views&color=0e75b6&style=flat" alt="lancekian12" /> </p> --!>
 
 <h3 align="left">👋 Hello, I'm Kian!</h3>
-<h3 align="left">I'm a senior college student at PHINMA University of Pangasinan in the Philippines.</h3>
+<h4 align="left">I'm a senior college student at PHINMA University of Pangasinan in the Philippines.</h4>
 
 🌱 I’m currently learning <b>React Native</b><br/>
 👨‍💻 All of my projects are available at <a href="https://lancekian.vercel.app" target="_blank" rel="noopener noreferrer" style="text-decoration:none;font-weight:bold;">Portfolio</a><br/>
