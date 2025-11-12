@@ -19,7 +19,21 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,bootstrap,bulma,html,css,dart,docker,express,nodejs,figma,flutter,git,javascript,mongodb,nextjs,python,pug,react,typescript,tailwind,django,laravel&theme=dark&perline=11" alt="My Skills" />
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lancekian12)](https://git.io/streak-stats)
-
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; gap: 10px; align-items: center;">
+    <a href="https://git.io/streak-stats">
+      <img 
+        src="https://streak-stats.demolab.com/?user=lancekian12" 
+        alt="GitHub Streak" 
+        style="height: 200px; object-fit: contain;"
+      />
+    </a>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancekian12&layout=compact" 
+      alt="Top Languages" 
+      style="height: 200px; object-fit: contain;"
+    />
+  </div>
+</div>
 
 
