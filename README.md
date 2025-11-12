@@ -8,13 +8,14 @@
 💬 Ask me about <b>ReactJS, Javascript, NodeJS, Dart and Flutter</b><br/>
 📫 How to reach me <b>lancekian12@gmail.com</b><br/>
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lance-kian-fangon-flores-256800257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lance-kian-fangon-flores-256800257/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/lancekian12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lancekian12" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/lancekian12" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=facebook" alt="https://www.facebook.com/lancekian12" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lance-kian-fangon-flores-256800257/" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="https://www.instagram.com/lancekiaaan/"  /></a>
+<a href="https://www.instagram.com/lancekiaaan/" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="https://www.linkedin.com/in/lance-kian-fangon-flores-256800257/"  /></a>
 </p>
 
-<h4 style="text-align: left;">Languages and Tools:</h4>
+<h3 style="text-align: left;">Languages and Tools:</h4>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,bootstrap,bulma,html,css,dart,docker,express,nodejs,figma,flutter,git,javascript,mongodb,nextjs,python,pug,react,typescript,tailwind,django,laravel&theme=dark&perline=11" alt="My Skills" />
 
 
