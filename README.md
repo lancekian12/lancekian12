@@ -1,4 +1,3 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancekian12&label=Profile%20views&color=0e75b6&style=flat" alt="lancekian12" /> </p> --!>
 
 <h3 align="left">👋 Hello, I'm Kian</h3>
 <h4 align="left">I'm a senior college student at PHINMA University of Pangasinan in the Philippines.</h4>
