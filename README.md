@@ -4,7 +4,7 @@
 <h3 align="left">I'm a senior college student at PHINMA University of Pangasinan in the Philippines.</h3>
 
 🌱 I’m currently learning <b>Python and Django</b><br/>
-👨‍💻 All of my projects are available at **[Portfolio](https://lancekian.vercel.app)**
+👨‍💻 All of my featured projects are available at **[Portfolio](https://lancekian.vercel.app)**
 <br/>💬 Ask me about <b>ReactJS, Javascript, NodeJS, Dart and Flutter</b><br/>
 
 ## Connect with me:
