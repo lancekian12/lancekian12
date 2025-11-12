@@ -18,22 +18,29 @@
 ## Languages and Tools: 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,bootstrap,bulma,html,css,dart,docker,express,nodejs,figma,flutter,git,javascript,mongodb,nextjs,python,pug,react,typescript,tailwind,django,laravel&theme=dark&perline=11" alt="My Skills" />
 
-
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; gap: 10px; align-items: center;">
-    <a href="https://git.io/streak-stats">
+<table align="left" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: none; padding: 5px;">
+      <a href="https://git.io/streak-stats">
+        <img 
+          src="https://streak-stats.demolab.com/?user=lancekian12" 
+          alt="GitHub Streak" 
+          height="180" 
+          style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);" 
+        />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
       <img 
-        src="https://streak-stats.demolab.com/?user=lancekian12" 
-        alt="GitHub Streak" 
-        style="height: 200px; object-fit: contain;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancekian12&layout=compact" 
+        alt="Top Languages" 
+        height="180" 
+        style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);" 
       />
-    </a>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancekian12&layout=compact" 
-      alt="Top Languages" 
-      style="height: 200px; object-fit: contain;"
-    />
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
+
+
 
 
