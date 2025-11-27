@@ -3,7 +3,7 @@
 ## 👋 Hello, I'm Kian
 <h3 align="left">I'm a senior college student at PHINMA University of Pangasinan in the Philippines.</h3>
 
-🌱 I’m currently learning <b> Python, FastAPI, Clean Architecture and Redux Toolkit </b><br/>
+🌱 I’m currently learning <b> Python, FastAPI, Clean Architecture and Redux React Toolkit Query </b><br/>
 👨‍💻 All of my featured projects are available at **[Portfolio](https://lancekian.vercel.app)**
 <br/>💬 Ask me about <b>ReactJS, Javascript, NodeJS, Dart and Flutter</b><br/>
 
