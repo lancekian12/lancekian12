@@ -1,8 +1,9 @@
 
 
 ## 👋 Hello, I'm Kian
-<h3 align="left">I'm a senior college student at PHINMA University of Pangasinan in the Philippines.</h3>
-
+<h4 align="left">
+Fullstack Web & Mobile Developer • Senior College Student – PHINMA University of Pangasinan
+</h4>
 🌱 I’m currently learning <b> FastAPI and NextJS </b><br/>
 👨‍💻 All of my featured projects are available at **[Portfolio](https://lancekian.vercel.app)**
 <br/>💬 Ask me about <b>ReactJS, Javascript, NodeJS, Dart and Flutter</b><br/>
