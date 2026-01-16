@@ -5,7 +5,7 @@
 Fullstack Web & Mobile Developer • Senior College Student – PHINMA University of Pangasinan
 </h4>
 
-🌱 I’m currently learning <b> NextJS and Nodejs </b><br/>
+🌱 I’m currently learning <b> NextJS, Docker and Nodejs </b><br/>
 👨‍💻 All of my featured projects are available at **[Portfolio](https://lancekian.vercel.app)**
 <br/>💬 Ask me about <b>ReactJS, Javascript, NodeJS, Dart and Flutter</b><br/>
 
