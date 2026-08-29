@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Kian
 <h4 align="left">
-Fullstack Web & Mobile Developer • Senior College Student – PHINMA University of Pangasinan
+Fullstack Web & Mobile Developer
 </h4>
 
 🌱 I’m currently learning <b> Java, LLM, Microservices, Docker and Kubernetes </b><br/>
